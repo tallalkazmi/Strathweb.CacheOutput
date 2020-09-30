@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="WebApi.OutputCache.V2.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WebApi.OutputCache.Core\WebApi.OutputCache.Core.csproj">
