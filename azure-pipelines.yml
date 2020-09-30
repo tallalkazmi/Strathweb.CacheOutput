@@ -30,7 +30,7 @@ steps:
 - task: NuGetCommand@2
   inputs:
     command: 'pack'
-    packagesToPack: '**/*.csproj;!**\*.Test.csproj'
+    packagesToPack: '*/src/WebApi.OutputCache.V2/WebApi.OutputCache.V2.csproj'
     versioningScheme: 'off'
     includeReferencedProjects: true
 
