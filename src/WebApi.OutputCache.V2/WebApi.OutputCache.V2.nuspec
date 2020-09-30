@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>Strathweb.CacheOutput.WebApi2</id>
     <version>$version$</version>
     <title>Strathweb.CacheOutput.WebApi2</title>
     <authors>Hassan Tallal</authors>
