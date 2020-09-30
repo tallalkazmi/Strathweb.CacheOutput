@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Strathweb.CacheOutput.WebApi2</id>
+    <version>$version$</version>
+    <title>Strathweb.CacheOutput.WebApi2</title>
+    <authors>Hassan Tallal</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/tallalkazmi/Strathweb.CacheOutput</projectUrl>
+    <description>
+		A library bringing output caching (similar to MVC's "OutputCache"), to Web API actions. Strathweb.CacheOutput will take care of server side caching and set the appropriate client side (response) headers for you.
+
+		This is a version for Web Api 2 only.
+	</description>
+    <releaseNotes>Package added</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>aspnet webapi aspnetwebapi</tags>
+  </metadata>
+</package>
